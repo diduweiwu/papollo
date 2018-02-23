@@ -1,0 +1,18 @@
+{
+  "name": "mxj/apollo",
+  "authors": [
+    {
+      "name": "gaoyuan121",
+      "email": "gao.yuan@mydreamplus.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-0": {
+      "Diduweiwu\\Papollo": "src/"
+    },
+    "files": [
+    ]
+  }
+}
+
