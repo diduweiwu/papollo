@@ -6,6 +6,11 @@
       "email": "gao.yuan@mydreamplus.com"
     }
   ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1"
+    }
+  },
   "require": {},
   "autoload": {
     "psr-0": {
