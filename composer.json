@@ -1,5 +1,6 @@
 {
   "name": "diduweiwu/papollo",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "gaoyuan121",
